@@ -1,26 +1,42 @@
-# Get Crackin' with Git using GitKraken
+# DAS SIMPLE GIT & GITKRAKEN TUTORIAL
 
-In this workshop, participants learn how to use GitKraken's Git GUI and GitKraken Boards to collaborate on a project. This is the source code for that project! 
+In diesem Tutorial lernt Ihr wie mit Gitkraken schnell und übersichtlich gearbeitet werden. Das ist der Sourcecode, für Übungszwecke!   Super das es so tolle Tools gibt
 
-## Complete This Workshop 
+## Das Tutorial abschließen
 
-To complete this workshop, follow the steps below: 
-1. Gather a few friends! You'll need a team of 3 people to really see the power of collaborating with GitKraken. 
-2. Visit [https://github.com/](https://github.com/) if you don't already have a GitHub account. 
-3. Then, visit [https://www.gitkraken.com/](https://www.gitkraken.com/) to sign up for GitKraken. 
-4. Download and install the GitKraken Git GUI. 
-5. One person on your team should fork this repository. 
-6. Then, that person should add each other person on the team as a collaborator. 
-7. Each person should clone the fork of this repo in the GitKraken Git GUI. 
-8. Copy lines 41-49 of index.html and paste them below. 
-9. Update them with information about yourself. 
-10. Use GitKraken to commit changes, open and review pull requests, and merge changes. 
-11. Voila! You're an expert. 
+Um das Tutorial interaktiv durchzuarbeiten, können Sie folgende Schritte befolgen, oder ganz einfach die Schritte im Youtube Tutorial verfolgen: 
+
+1. Arbeite in der Gruppe und sprich mit deinen Freunden! Mindestens 3 Personen werden benötigt, um tatsächlich zu sehen, wie mächtig Git und Gitkraken gerade in der Zusammenarbeit ist
+
+2. Besucht [https://github.com/](https://github.com/) wenn Du / Ihr noch keinen Github Account habt.
+
+3. Dann besucht Ihr [https://www.gitkraken.com/](https://www.gitkraken.com/invite/iP2WQZKy) um Gitkraken kostenfrei runterzuladen. 
+
+4. Download und installiere GitKraken Git GUI. 
+
+5. Eine Person aus eurem Team sollte dieses Repository "forken". 
+
+6. Dann sollte diese Person, die anderen im Team einladen. 
+
+7. Jede Person sollte jetzt das Repository von dem der eingeladen hat lokal in GitKraken Git GUI geladen und verfügbar haben. 
+
+8. Kopiert jetzt die Zeilen 39 - 68 aus der index.html. 
+
+9. Ergänzt jetzt die Zeilen einfach mit ein paar Details zu euch.
+
+10. Wenn Ihr fertig seit, benutzt Gitkraken jetzt einfach für das "committen", "pushen" und letztendlich das "mergen". . 
+
+11. Voila! Jetzt habt Ihr alles was Ihr braucht und seit Profis mit Git und Gitkraken und vielleicht habt ihr dabei noch etwas Interessantes über eure Freunde erfahren. 
+
+
+###### Die unteren Zeilen stammen aus dem Originalverzeichnis von Gitkraken
 
 ## Become a GitKraken Ambassador! 
 
 Love GitKraken? Want to earn awesome swag while sharing the love? Read below: 
 
 The Get Crackin’ with Git using GitKraken workshop requires you (the organizer) and all participants to create GitKraken accounts. Make sure to create your account first, and then provide your [referral link](https://app.gitkraken.com/referrals) in the presentation slides for others to use when creating their accounts. GitKraken has an awesome referral program that allows you to win prizes, and following this process will ensure that all workshop participants’ accounts are associated with your referral code.
+
+Hier fügen wir eine Änderung ein
 
 Hosting this workshop and sharing your referral link with participants will put you well on your way to becoming a GitKraken Ambassador! We highly recommend joining this community of industry professionals and student developers. This program will help increase your software development knowledge, build your professional skills, and provide further value to your local tech community. Get support for your events, improve your content, increase your reach, and get legendary swag! Check out the [GitKraken Ambassador Program](https://www.gitkraken.com/ambassador)!
